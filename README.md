@@ -2,7 +2,7 @@
 
 ## Remote SIM Provisioning System Architecture
 
-![Remote SIM Provisioning System Architecture](architecture.png)
+![Remote SIM Provisioning System Architecture](imgs/architecture.png)
 
 ## Specifications
 
