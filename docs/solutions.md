@@ -7,4 +7,4 @@
 
 ## References
 
-- <https://forums.quectel.com/uploads/short-url/aCFNp1v9fRZtWU9mucGbJy3N0rq.pdf>
+- [Quectel eSIM Introducation](https://forums.quectel.com/uploads/short-url/aCFNp1v9fRZtWU9mucGbJy3N0rq.pdf)

@@ -18,4 +18,5 @@ $ ./lpac info | jq
 
 ## References
 
-- <https://github.com/estkme/lpac>
+- <https://github.com/estkme-group/lpac>
+- <https://github.com/estkme-group/lpa-agent>
