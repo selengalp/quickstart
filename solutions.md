@@ -3,11 +3,8 @@
 ## Chip
 
 - [ST33](https://www.st.com/en/secure-mcus/st33-arm-core.html)
+- [OC1120](https://www.infineon.com/cms/en/product/security-smart-card-solutions/optiga-embedded-security-solutions/optiga-connect/optiga-connect-consumer/)
 
-## LTE Module
+## References
 
-- Quectel EM05-CE
-- Quectel RM500
-- Quectel RM520N-GL
-- Fibocom L850-GL
-- Fibocom L860-GL
+- <https://forums.quectel.com/uploads/short-url/aCFNp1v9fRZtWU9mucGbJy3N0rq.pdf>

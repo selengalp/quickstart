@@ -35,4 +35,6 @@
 - <https://iecho.cc/2023/10/20/Convert-eSIM-to-physical-SIM/>
 - <https://blog.i64d.com/zhe-teng-esim-3hk/>
 - <https://support.apple.com/HT209096>
-- <https://trustedconnectivityalliance.org/technology/euicc/>
+- <https://github.com/Infineon/optiga-connect-iot>
+- <https://github.com/ravens/awesome-telco>
+- <https://github.com/calee0219/awesome-5g>
